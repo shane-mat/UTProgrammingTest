@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "1111",
+    "Name": "Electric Cooker",
+    "Price": 150.0
+  },
+  {
+    "Id": "2222",
+    "Name": "Television",
+    "Price": 1150.0
+  }
+]
